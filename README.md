@@ -117,3 +117,16 @@ The model was trained using the `train_model.py` script.
 * **Architecture:** A hybrid model combining features from a pre-trained `vit_b_16`, `resnet50`, and a custom shallow CNN. The combined features are passed through a final classifier.
 
 To train the model yourself, download the dataset, organize it into `train/`, `valid/`, and `test/` folders, update the `DATA_DIR` path in `train_model.py`, and run the script.
+
+## 🧠 Glimpse of APP:-
+<img width="389" height="865" alt="image" src="https://github.com/user-attachments/assets/54153b8f-0c9b-403a-8a9d-1825177d1748" />
+<img width="603" height="865" alt="image" src="https://github.com/user-attachments/assets/301dee8c-7389-4e8c-b269-b86fa2c5a149" />
+<img width="624" height="831" alt="image" src="https://github.com/user-attachments/assets/1093710e-17fe-478b-97d9-526b01b45b96" />
+<img width="624" height="605" alt="image" src="https://github.com/user-attachments/assets/1770110a-b60f-4eab-9695-38dde5fbedbb" />
+<img width="977" height="779" alt="image" src="https://github.com/user-attachments/assets/6df7e332-e84e-43b5-9136-2e19faa85299" />
+<img width="624" height="411" alt="image" src="https://github.com/user-attachments/assets/d5c545b7-288b-4761-bccc-f76b1ab00f9e" />
+
+
+
+
+

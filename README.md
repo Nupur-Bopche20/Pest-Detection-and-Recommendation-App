@@ -56,7 +56,7 @@ This project is a complete system for identifying agricultural pests from images
 
 4.  **Download the Pre-trained Model:**
     * Download the model file (`pest_detection_hybrid_model_optimized.pth`) from this link:
-    * **[➡️ Add Your Google Drive/Dropbox Download Link Here ⬅️]**
+    * **https://drive.google.com/file/d/17xZ170kfE6L6urNmuQfQzeKAOnKD_Hek/view?usp=drive_link**
     * Place the downloaded `.pth` file inside the `backend/` folder.
 
 ---

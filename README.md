@@ -126,6 +126,10 @@ To train the model yourself, download the dataset, organize it into `train/`, `v
 <img width="300" height="400" alt="image" src="https://github.com/user-attachments/assets/6df7e332-e84e-43b5-9136-2e19faa85299" />
 <img width="300" height="400" alt="image" src="https://github.com/user-attachments/assets/d5c545b7-288b-4761-bccc-f76b1ab00f9e" />
 
+<p align="center">
+  <i>Copyright © 2025 Nupur-Bopche20. All rights reserved.</i>
+</p>
+
 
 
 

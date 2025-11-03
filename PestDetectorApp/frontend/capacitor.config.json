@@ -1,0 +1,8 @@
+{
+  "appId": "com.nupur.pesticidenet",
+  "appName": "PesticideNet AI",
+  "webDir": "www",
+   "server": {
+    "androidScheme": "http"
+  }
+}

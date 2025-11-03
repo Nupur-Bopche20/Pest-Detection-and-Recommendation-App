@@ -1,0 +1,336 @@
+{
+  "ants": {
+    "description": "Ants are social insects that can protect other pests like aphids in exchange for honeydew. They can also damage seedlings and fruits.",
+    "scientific_name": "Formicidae",
+    "chemical_pesticides": [
+      "Deltamethrin 00.50% w/w Chalk",
+      "Deltamethrin 1.0% SB (Anti-Insect Enamel)",
+      "Imidacloprid 00.03% w/w Gel",
+      "Malathion 02% House Hold Spray",
+      "Propoxur 20% EC",
+      "Thiamethoxam 00.01% w/w Gel Bait",
+      "Transfluthrin 1% w/w + Cypermethrin 0.2% w/w Spray"
+    ],
+    "organic_controls": [
+      "Diatomaceous Earth (DE): Sprinkle food-grade DE directly on ant trails and around nests. This powder is made of fossilized organisms and works by scratching the ants' exoskeleton, causing them to dehydrate.",
+      "Vinegar or Lemon Juice Spray: Mix equal parts white vinegar or lemon juice with water in a spray bottle. Spraying this on ant trails disrupts their chemical (pheromone) trails, making it hard for them to navigate.",
+      "Borax and Sugar Bait: A mixture of borax and sugar can be an effective bait. The sugar attracts the ants, and they take the borax back to the nest, which eliminates the colony. (Use with caution and keep away from pets and children)."
+    ],
+    "preventive_measures": [
+      "Manage Aphids: Ants are often attracted to the sweet 'honeydew' excreted by aphids. Controlling the aphid population on your plants will often cause the ants to leave.",
+      "Keep it Clean: Remove debris, fallen fruit, and other potential food sources from the garden area.",
+      "Plant Repellent Herbs: Ants dislike the strong scent of herbs like mint, rosemary, lavender, and thyme. Planting these around the garden can act as a natural barrier."
+    ]
+  },
+  "beetles": {
+    "description": "Beetles can cause significant damage by feeding on leaves, roots, and fruits. Many different species exist.",
+    "scientific_name": "Coleoptera",
+    "chemical_pesticides": [
+      "Aluminum Phosphide (15%, 56%, 77.50% GR)",
+      "Bifenthrin (02.50% EC, 8% + Clothianidin 10% SC)",
+      "Chlorantraniliprole (18.50% SC, 47.85% w/w SC)",
+      "Cypermethrin 25% EC",
+      "Deltamethrin 02.50% WP",
+      "Ethylene dichloride + Carbon tetrachloride (3:1)",
+      "Quinalphos 25% EC",
+      "Acephate",
+      "Carbaryl",
+      "Chlorpyrifos",
+      "Cypermethrin",
+      "Imidacloprid",
+      "Lambda-cyhalothrin",
+      "Malathion",
+      "Permethrin",
+      "Pyrethrin",
+      "Pyrethroids",
+      "Thiamethoxam"
+    ],
+    "organic_controls": [
+      "Hand-Pick: Manually remove beetles from plants and drop them into soapy water.",
+      "Neem Oil Spray: Use neem oil spray on leaves to repel beetles and disrupt their life cycle.",
+      "Beneficial Insects: Introduce natural predators like ladybugs, which feed on beetle eggs and larvae.",
+      "Row Covers: Place lightweight fabric covers over plants to create a physical barrier.",
+      "Kaolin Clay: Spray a mixture of kaolin clay and water on plants. This creates a film that deters beetles from feeding.",
+      "Diatomaceous Earth (DE): Sprinkle DE around the base of plants to damage the exoskeletons of crawling beetles."
+    ],
+    "preventive_measures": [
+      "Crop Rotation: Avoid planting the same crop family in the same location every year to break the pest cycle in the soil.",
+      "Garden Sanitation: Clean up all crop debris and weeds at the end of the season to remove places where beetles can hide for the winter.",
+      "Companion Planting: Plant repellent herbs like marigolds, catnip, and rosemary alongside your main crops to naturally deter beetles.",
+      "Tilling: Till the soil in the fall or early spring to expose overwintering larvae and pupae to predators.",
+      "Encourage Predators: Make your garden friendly to birds and toads, which are natural predators of beetles."
+    ]
+  },
+  "caterpillar": {
+    "description": "Caterpillars are the larval stage of moths and butterflies and can cause rapid and extensive damage by eating leaves and fruits.",
+    "scientific_name": "Lepidoptera (larval stage)",
+    "chemical_pesticides": [
+      "Azadirachtin (00.03% WSP, 05.00% w/w Min.)",
+      "Broflanilide 20% SC",
+      "Chlorantraniliprole (18.50% SC, 00.40% GR, 47.85% w/w SC)",
+      "Cypermethrin 10% EC",
+      "Deltamethrin 02.80% EC",
+      "Diflubenzuron 25% WP",
+      "Emamectin benzoate 5% w/w + Lufenuron 40% w/w WG",
+      "Fluxametamide 10% w/w EC",
+      "Indoxacarb 14.50% SC",
+      "Methoxyfenozide 21.8% w/w SC",
+      "Quinalphos 25% EC",
+      "Spinetoram 11.70% SC",
+      "Acephate",
+      "Carbaryl",
+      "Cartap hydrochloride",
+      "Chlorantraniliprole",
+      "Emamectin benzoate",
+      "Imidacloprid"
+    ],
+    "organic_controls": [
+      "Hand-Pick: Manually remove larger caterpillars from plants and drop them into a bucket of soapy water.",
+      "Neem Oil Spray: A general organic pesticide, neem oil can be sprayed on leaves to repel caterpillars and disrupt their growth.",
+      "Bacillus thuringiensis (Bt) Spray: Bt is a naturally occurring bacterium that is toxic only to caterpillars. It's a very effective and safe organic insecticide. Follow label instructions.",
+      "Beneficial Insects: Encourage or release predators like wasps and lacewings, which attack and eat caterpillars.",
+      "Row Covers: Use lightweight fabric covers to physically block moths from laying eggs on your plants.",
+      "Soapy Water Spray: A simple solution of dish soap and water can be sprayed directly on smaller caterpillars to control them."
+    ],
+    "preventive_measures": [
+      "Crop Rotation: Change the location of your crops each year. This helps prevent moths from finding their preferred plants to lay eggs on.",
+      "Garden Sanitation: At the end of the season, clean up all plant debris and weeds. This removes the places where pupae (the next stage after caterpillar) might hide for the winter.",
+      "Companion Planting: Plant herbs with strong smells around your garden. Moths are repelled by plants like lavender, sage, peppermint, and mugwort.",
+      "Tilling: Till the soil in the fall or early spring. This can destroy or expose overwintering pupae that are buried in the soil.",
+      "Encourage Birds: Attract birds to your garden with birdhouses or birdbaths. Birds are excellent natural predators of caterpillars."
+    ]
+  },
+  "grasshopper": {
+    "description": "Grasshoppers can cause widespread defoliation during large outbreaks, eating entire leaves and stems.",
+    "scientific_name": "Orthoptera",
+    "chemical_pesticides": [
+      "Carbaryl",
+      "Malathion",
+      "Pyrethroids",
+      "Chlorpyrifos 01.50% DP"
+    ],
+    "organic_controls": [
+      "Garlic Spray: Mix crushed garlic with water and a little soap. The strong scent repels grasshoppers when sprayed on plants.",
+      "Neem Oil: Spray plants with neem oil. It acts as a repellent and stops grasshoppers from feeding and maturing.",
+      "Natural Predators: Encourage birds, praying mantises, and spiders. Chickens and guinea fowl are excellent at controlling grasshopper populations.",
+      "Molasses Traps: Place shallow containers with a mixture of molasses and water in your garden. The sweet smell attracts grasshoppers, who fall in and get trapped.",
+      "Nosema locustae Spores: Apply this natural protozoan (sold as bait or spores), which specifically infects and kills grasshoppers and their nymphs."
+    ],
+    "preventive_measures": [
+      "Tilling: Till your garden soil in late fall or early spring. This destroys the egg pods that grasshoppers lay just beneath the soil surface.",
+      "Weed Control: Keep your garden and surrounding areas free of weeds. This removes the primary food sources and egg-laying sites for grasshoppers.",
+      "Row Covers: Use floating row covers on young, vulnerable plants to create a physical barrier that grasshoppers cannot penetrate.",
+      "Plant Deterrents: Plant cilantro, calendula, or horehound around your garden. Their strong smells can naturally repel grasshoppers.",
+      "Trap Crops: Plant a border of tall grass or zinnias around your garden. These will attract grasshoppers, drawing them away from your main crops."
+    ]
+  },
+  "moth": {
+    "description": "Adult moths are typically not the problem, but they lay the eggs that hatch into destructive caterpillars.",
+    "scientific_name": "Lepidoptera",
+    "chemical_pesticides": [
+      "Aluminum Phosphide (15%, 56%)",
+      "Bacillus thuringiensis var. kurstaki",
+      "Broflanilide 20% SC",
+      "Chlorantraniliprole 18.50% SC",
+      "Chlorfluazuron 05.40% EC",
+      "Cypermethrin 10% EC",
+      "Deltamethrin 02.50% WP",
+      "Emamectin benzoate (05% SG, 5% w/w + Lufenuron 40% w/w WG)",
+      "Fipronil (05% SC, 80% WG)",
+      "Flubendiamide (20% WG, 39.35% w/w SC)",
+      "Indoxacarb (14.50% SC, 15.80% EC)",
+      "Malathion 02 % House Hold Spray",
+      "Metaflumizone 22% SC",
+      "Novaluron (10% EC, 05.25% + Emamectin Benzoate 0.9% SC)",
+      "Pyridalyl 10% EC",
+      "Spinosad 02.50% SC",
+      "Spirotetramat 15.31% w/w OD",
+      "Thiodicarb 75% WP",
+      "Tolfenpyrad 15% EC",
+      "Verticillium lecanii 5.0% SC",
+      "Bacillus thuringiensis",
+      "Carbaryl",
+      "Chlorantraniliprole",
+      "Chlorpyrifos",
+      "Lambda-cyhalothrin",
+      "Malathion",
+      "Pyrethroids",
+      "Spinosad"
+    ],
+    "organic_controls": [
+      "Pheromone Traps: Use traps with a specific scent (pheromone) to attract and catch adult male moths, which disrupts their mating cycle.",
+      "Bacillus thuringiensis (Bt) Spray: Apply this natural bacterium to leaves. It specifically targets and eliminates caterpillars when they ingest it. It is safe for humans and other beneficial insects.",
+      "Neem Oil: Spray plants with neem oil to repel adult moths and interfere with the growth and feeding of their caterpillars.",
+      "Beneficial Insects: Release Trichogramma wasps, which are tiny insects that lay their eggs inside moth eggs, destroying them before they can hatch.",
+      "Light Traps: At night, place a light over a bucket of soapy water. Moths are attracted to the light and will fall into the water and drown."
+    ],
+    "preventive_measures": [
+      "Row Covers: Use lightweight fabric covers to create a physical barrier that prevents moths from laying their eggs on the plants.",
+      "Garden Sanitation: Clean up crop debris and weeds at the end of the season to remove the pupae (cocoons) that overwinter in the garden.",
+      "Companion Planting: Plant aromatic herbs like lavender, peppermint, sage, and rosemary around your garden. Their strong scent naturally repels moths.",
+      "Tilling: Till the soil in the late fall or early spring to destroy or expose the overwintering pupae that are buried just below the surface.",
+      "Encourage Predators: Attract natural predators like bats and night-flying birds, which feed on adult moths."
+    ]
+  },
+  "slug": {
+    "description": "Slugs are mollusks that feed at night, creating large, irregular holes in leaves and damaging fruits.",
+    "scientific_name": "Gastropoda (without a prominent external shell)",
+    "chemical_pesticides": [
+      "Metaldehyde 2.5% DP"
+    ],
+    "organic_controls": [
+      "Beer Traps: Bury a shallow container so its rim is level with the soil and fill it with beer. Slugs are attracted to the yeast, fall in, and drown.",
+      "Abrasive Barriers: Create a perimeter around plants with materials slugs won't cross, such as crushed eggshells, diatomaceous earth, or sand.",
+      "Copper Tape: Place copper tape or strips around the base of pots or raised beds. The copper reacts with slug slime, creating a natural electric shock that repels them.",
+      "Iron Phosphate Baits: Use pellets containing iron phosphate, which is an effective and organic-approved molluscicide that is safe for wildlife and pets.",
+      "Hand-Picking: Go out at night or in the early morning with a flashlight and manually pick slugs off your plants."
+    ],
+    "preventive_measures": [
+      "Reduce Moisture: Water plants in the morning so the soil surface can dry by evening. Slugs are active in damp conditions.",
+      "Eliminate Hiding Places: Clear away leaf litter, old mulch, boards, and stones where slugs hide during the day.",
+      "Encourage Predators: Make your garden a welcoming habitat for natural predators like frogs, toads, and birds, which feed on slugs.",
+      "Plant Deterrents: Slugs dislike strongly scented plants. Use rosemary, lavender, and sage as border plants to help repel them."
+    ]
+  },
+  "snail": {
+    "description": "Similar to slugs, snails damage plants by chewing holes in leaves and fruits, and can be identified by their shells.",
+    "scientific_name": "Gastropoda (with an external shell)",
+    "chemical_pesticides": [
+      "Metaldehyde 2.5% DP (Effective against Snails and Giant African snails)"
+    ],
+    "organic_controls": [
+      "Beer Traps: Bury a shallow dish so the rim is level with the soil and fill it with beer. Snails are attracted to the yeast, fall in, and drown.",
+      "Copper Tape: Apply copper tape around the base of pots and garden beds. It delivers a harmless electric shock that repels snails.",
+      "Abrasive Barriers: Create a perimeter around your plants with materials that snails won't cross, like crushed eggshells, coarse sand, or diatomaceous earth.",
+      "Iron Phosphate Baits: Use slug and snail baits containing iron phosphate. This is an effective molluscicide that is approved for organic gardening and is safe around pets and wildlife.",
+      "Hand-Picking: Go out at night or early in the morning with a flashlight and manually remove snails from your plants."
+    ],
+    "preventive_measures": [
+      "Remove Hiding Spots: Clean up leaf litter, old logs, stones, and low-lying weeds where snails hide from the sun during the day.",
+      "Water in the Morning: Water your plants early in the day. This allows the soil surface to dry out by nightfall, making it less attractive for snails to travel across.",
+      "Encourage Predators: Create a habitat that welcomes natural predators of snails, such as birds, toads, and frogs.",
+      "Plant Deterrents: Snails dislike strongly scented plants. Incorporate plants like rosemary, lavender, sage, and mint into your garden to help repel them."
+    ]
+  },
+  "weevil": {
+    "description": "Weevils are a type of beetle, often with a distinctive snout. Adults feed on leaves and flowers, while larvae can damage roots or seeds.",
+    "scientific_name": "Curculionoidea",
+    "chemical_pesticides": [
+      "Aluminum Phosphide 56%",
+      "Bifenthrin 8% + Clothianidin 10% SC",
+      "Carbofuran 03% CG",
+      "Dimethoate 30% EC",
+      "Monocrotophos 36% SL",
+      "Quinalphos (25% EC, 01.50% DP)",
+      "Carbaryl",
+      "Carbofuran",
+      "Chlorpyrifos",
+      "Cyfluthrin",
+      "Diazinon",
+      "Imidacloprid",
+      "Lambda-cyhalothrin"
+    ],
+    "organic_controls": [
+      "Hand-Pick: Manually remove weevils from plants, especially at night when many are active. Drop them into soapy water.",
+      "Neem Oil Spray: Thoroughly spray plants with neem oil. It repels adult weevils and disrupts the growth of their larvae.",
+      "Beneficial Nematodes: Apply beneficial nematodes to the soil around your plants. These microscopic worms are natural predators that seek out and kill weevil larvae in the soil.",
+      "Pyrethrin Spray: For heavier infestations, use an organic insecticide containing pyrethrin, which is derived from chrysanthemum flowers.",
+      "Sticky Traps: Wrap sticky bands around the trunks of trees and larger plants to trap weevils as they crawl up to feed."
+    ],
+    "preventive_measures": [
+      "Crop Rotation: Avoid planting susceptible crops like peas, beans, or root vegetables in the same location every year to break the weevil life cycle.",
+      "Garden Sanitation: Clean up all plant debris, fallen fruit, and weeds at the end of the season. This removes the primary hiding spots where adult weevils overwinter.",
+      "Tilling: Till your garden soil in the late fall or early spring to expose and destroy eggs, larvae, and pupae that are in the soil.",
+      "Mulch Management: Be mindful that thick layers of mulch can provide a daytime hiding place for adult weevils. Keep mulch pulled back from the base of plants.",
+      "Inspect New Plants: Before adding new plants to your garden, carefully check them and their soil for any signs of weevils."
+    ]
+  },
+   "bees": {
+    "description": "Bees are essential pollinators and are vital for agriculture. They are not typically pests and should be protected.",
+    "chemical": {
+      "name": "Avoid Pesticides",
+      "dosage_guidelines": {
+        "note": "Do NOT use pesticides on bees. If a hive is in a dangerous location, your first action should be to contact a professional.",
+        "low": "Contact a local beekeeper for safe hive relocation.",
+        "medium": "Contact a local beekeeper for safe hive relocation.",
+        "high": "Contact a local beekeeper for safe hive relocation."
+      }
+    },
+    "organic": [
+      "The primary organic and ethical method is relocation by a professional.",
+      "Plant bee-repelling plants like mint or citronella in areas you want to keep them away from."
+    ],
+    "preventive": "Seal any cracks or openings in buildings to prevent bees from building hives inside. Beekeeping is the best way to manage them."
+  },
+   "earthworms": {
+    "description": "Earthworms are highly beneficial to soil health, improving aeration and nutrient cycling. They are not considered pests.",
+    "chemical": {
+      "name": "No Action Recommended",
+      "dosage_guidelines": {
+        "note": "Earthworms are signs of healthy soil. No chemical control should ever be used against them.",
+        "low": "No action needed.",
+        "medium": "No action needed.",
+        "high": "No action needed."
+      }
+    },
+    "organic": [
+      "No control needed. Encourage their population by adding organic matter like compost to the soil."
+    ],
+    "preventive": "Maintain healthy soil with good drainage and plenty of organic material to support a thriving earthworm population."
+  },
+  "earwig": {
+    "description": "Earwigs are mostly scavengers but can sometimes feed on soft seedlings, flowers, and fruits like corn silk.",
+    "chemical": {
+      "name": "Spinosad or Pyrethrin-based Granules",
+      "dosage_guidelines": {
+        "note": "Severity is based on damage to seedlings or fruits. Control is often only needed in specific areas. Always follow product label.",
+        "low": "Sprinkle granules around the base of affected plants.",
+        "medium": "Create a perimeter barrier with granules around the garden bed.",
+        "high": "Widespread but light application of granules. Earwigs are nocturnal, so apply in the evening."
+      }
+    },
+    "organic": [
+      "Set up traps: roll up damp newspaper or lay small sections of hose. In the morning, shake the trapped earwigs into soapy water.",
+      "Sprinkle diatomaceous earth around plants."
+    ],
+    "preventive": "Clear away damp debris, old mulch, and boards where they like to hide. Create a dry border around garden beds."
+  },
+  "wasp": {
+    "description": "Most wasps are beneficial predators that control other pests like caterpillars. They only become a nuisance if they nest in high-traffic areas.",
+    "chemical": {
+      "name": "Wasp & Hornet Spray",
+      "dosage_guidelines": {
+        "note": "Only use if a nest is in a location that poses a direct threat to people. Attack nests in the evening when wasps are less active.",
+        "low": "A single nest can be treated with a targeted spray from a safe distance.",
+        "medium": "If there are multiple nests, consider professional pest control.",
+        "high": "Definitely call a professional for large or hard-to-reach nests."
+      }
+    },
+    "organic": [
+      "Set up commercial wasp traps away from your main living areas to draw them away.",
+      "A spray of soapy water can be effective on individual wasps."
+    ],
+    "preventive": "Seal cracks and openings in buildings. Keep garbage cans sealed. Avoid leaving sugary drinks or food out."
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

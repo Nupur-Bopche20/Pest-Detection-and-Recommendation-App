@@ -1,0 +1,22 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Model Files
+*.pth
+*.pt
+
+# Node
+node_modules/
+npm-debug.log
+
+# Capacitor / Android
+android/
+ios/
+www/
+
+# OS junk files
+.DS_Store
+Thumbs.db

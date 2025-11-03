@@ -6,7 +6,7 @@ This project is a complete system for identifying agricultural pests from images
 ## 📋 Features
 
 * **Pest Detection:** Identifies 12 different types of agricultural pests using a powerful hybrid deep learning model.
-* **Hybrid Model:** Combines the strengths of **Vision Transformer (ViT)**, **ResNet50**, and a **Custom CNN** for high accuracy.
+* **Hybrid Model:** Combines the strengths of **Vision Transformer (ViT)**, **ResNet50**, and a **Custom CNN** for 94% accuracy.
 * **Backend API:** A Flask server that exposes the model via a simple `/predict` endpoint.
 * **Mobile App:** An Android application (built from web technologies) that allows users to upload an image from their phone and get instant predictions.
 * **Recommendations:** Provides practical advice and control measures for detected pests (via `recommendations.json`).
